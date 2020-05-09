@@ -29,7 +29,7 @@ properties:
   KUBECONFIG:
     vault: KUBECONFIG
   K8S_PROVIDER: UNMANAGED
-  NAMESPACE: staging-telemetry-es
+  NAMESPACE: efk
   APP_INSTANCE_NAME: telemetry-es-v1
   ES_VOLUME_SIZE: 5Gi
   ES_APP_NAME: elasticsearch-logging
